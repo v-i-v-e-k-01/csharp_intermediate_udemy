@@ -1,7 +1,0 @@
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\AssociationBetweenClasses\AssociationBetweenClasses\bin\Debug\AssociationBetweenClasses.exe.config
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\AssociationBetweenClasses\AssociationBetweenClasses\bin\Debug\AssociationBetweenClasses.exe
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\AssociationBetweenClasses\AssociationBetweenClasses\bin\Debug\AssociationBetweenClasses.pdb
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\AssociationBetweenClasses\AssociationBetweenClasses\obj\Debug\AssociationBetweenClasses.csproj.AssemblyReference.cache
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\AssociationBetweenClasses\AssociationBetweenClasses\obj\Debug\AssociationBetweenClasses.csproj.CoreCompileInputs.cache
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\AssociationBetweenClasses\AssociationBetweenClasses\obj\Debug\AssociationBetweenClasses.exe
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\AssociationBetweenClasses\AssociationBetweenClasses\obj\Debug\AssociationBetweenClasses.pdb

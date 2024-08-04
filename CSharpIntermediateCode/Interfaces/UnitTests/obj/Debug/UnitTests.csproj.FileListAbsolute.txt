@@ -1,2 +1,0 @@
-C:\Users\E272830\Desktop\Interfaces\UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
-C:\Users\E272830\Desktop\Interfaces\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache

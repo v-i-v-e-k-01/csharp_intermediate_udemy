@@ -1,7 +1,0 @@
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Polymorphism\MethodOverriding\bin\Debug\MethodOverriding.exe.config
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Polymorphism\MethodOverriding\bin\Debug\MethodOverriding.exe
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Polymorphism\MethodOverriding\bin\Debug\MethodOverriding.pdb
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Polymorphism\MethodOverriding\obj\Debug\MethodOverriding.csproj.AssemblyReference.cache
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Polymorphism\MethodOverriding\obj\Debug\MethodOverriding.csproj.CoreCompileInputs.cache
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Polymorphism\MethodOverriding\obj\Debug\MethodOverriding.exe
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Polymorphism\MethodOverriding\obj\Debug\MethodOverriding.pdb

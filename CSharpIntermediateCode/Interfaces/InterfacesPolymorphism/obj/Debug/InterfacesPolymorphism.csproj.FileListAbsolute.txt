@@ -1,7 +1,0 @@
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Interfaces\InterfacesPolymorphism\bin\Debug\InterfacesPolymorphism.exe.config
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Interfaces\InterfacesPolymorphism\bin\Debug\InterfacesPolymorphism.exe
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Interfaces\InterfacesPolymorphism\bin\Debug\InterfacesPolymorphism.pdb
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Interfaces\InterfacesPolymorphism\obj\Debug\InterfacesPolymorphism.csproj.AssemblyReference.cache
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Interfaces\InterfacesPolymorphism\obj\Debug\InterfacesPolymorphism.csproj.CoreCompileInputs.cache
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Interfaces\InterfacesPolymorphism\obj\Debug\InterfacesPolymorphism.exe
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Interfaces\InterfacesPolymorphism\obj\Debug\InterfacesPolymorphism.pdb

@@ -1,7 +1,0 @@
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\CSharpIntermediateCode\bin\Debug\CSharpIntermediateCode.exe.config
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\CSharpIntermediateCode\bin\Debug\CSharpIntermediateCode.exe
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\CSharpIntermediateCode\bin\Debug\CSharpIntermediateCode.pdb
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\CSharpIntermediateCode\obj\Debug\CSharpIntermediateCode.csproj.AssemblyReference.cache
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\CSharpIntermediateCode\obj\Debug\CSharpIntermediateCode.csproj.CoreCompileInputs.cache
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\CSharpIntermediateCode\obj\Debug\CSharpIntermediateCode.exe
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\CSharpIntermediateCode\obj\Debug\CSharpIntermediateCode.pdb

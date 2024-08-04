@@ -1,7 +1,0 @@
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\CastingAndBoxing\bin\Debug\UpcastingAndDowncasting.exe.config
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\CastingAndBoxing\bin\Debug\UpcastingAndDowncasting.exe
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\CastingAndBoxing\bin\Debug\UpcastingAndDowncasting.pdb
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\CastingAndBoxing\obj\Debug\CastingBoxing.csproj.AssemblyReference.cache
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\CastingAndBoxing\obj\Debug\CastingBoxing.csproj.CoreCompileInputs.cache
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\CastingAndBoxing\obj\Debug\UpcastingAndDowncasting.exe
-C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\CastingAndBoxing\obj\Debug\UpcastingAndDowncasting.pdb
