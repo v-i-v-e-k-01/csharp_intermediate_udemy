@@ -1,0 +1,7 @@
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Classes\Fields and Access Modifiers\bin\Debug\Fields.exe.config
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Classes\Fields and Access Modifiers\bin\Debug\Fields.exe
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Classes\Fields and Access Modifiers\bin\Debug\Fields.pdb
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Classes\Fields and Access Modifiers\obj\Debug\Fields Access Modifiers and Properties.csproj.AssemblyReference.cache
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Classes\Fields and Access Modifiers\obj\Debug\Fields Access Modifiers and Properties.csproj.CoreCompileInputs.cache
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Classes\Fields and Access Modifiers\obj\Debug\Fields.exe
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Classes\Fields and Access Modifiers\obj\Debug\Fields.pdb

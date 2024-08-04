@@ -1,0 +1,7 @@
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\Exercise\bin\Debug\Exercise.exe
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\Exercise\bin\Debug\Exercise.pdb
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\Exercise\obj\Debug\Exercise.csproj.AssemblyReference.cache
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\Exercise\obj\Debug\Exercise.exe
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\Exercise\obj\Debug\Exercise.pdb

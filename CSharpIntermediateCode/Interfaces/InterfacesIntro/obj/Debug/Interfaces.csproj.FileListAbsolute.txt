@@ -1,0 +1,4 @@
+C:\Users\E272830\Desktop\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\E272830\Desktop\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache

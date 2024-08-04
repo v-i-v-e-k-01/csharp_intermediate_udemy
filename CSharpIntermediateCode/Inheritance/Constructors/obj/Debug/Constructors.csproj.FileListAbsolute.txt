@@ -1,0 +1,7 @@
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\Constructors\bin\Debug\Constructors.exe
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\Constructors\bin\Debug\Constructors.pdb
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\Constructors\obj\Debug\Constructors.exe
+C:\Users\E272830\Desktop\C# Intermediate\CSharpIntermediateCode\Inheritance\Constructors\obj\Debug\Constructors.pdb
